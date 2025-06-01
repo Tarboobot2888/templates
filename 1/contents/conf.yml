@@ -1,13 +1,13 @@
 info:
-  name: "[name]"
-  identifier: "[identifier]"
-  description: "[description]"
+  name: "Tarboo Midnight"
+  identifier: "tarboo_midnight"
+  description: "Dark modern theme for Pterodactyl built using Blueprint."
   flags: ""
-  version: "[ver]"
-  target: "[version]"
-  author: "[author]"
-  icon: ""
-  website: ""
+  version: "1.0.0"
+  target: "1.11.4"
+  author: "Tarboo Devs"
+  icon: "https://example.com/icon.png" # تقدر تحط رابط أيقونة هنا
+  website: "https://tarboo.zenonhs.store"
 
 admin:
   view: "view.blade.php"
